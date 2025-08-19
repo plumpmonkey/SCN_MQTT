@@ -1,7 +1,7 @@
 # SCN Traffic Analysis Lab - MQTT
 ## Quick Start Guide
 
-Please see the `Week 1-3 Traffic Analysis Lab - MQTT` lab worksheet on Blackboardfor detailed instructions on setting up and using the lab environment.
+Please see the `Week 1-3 Traffic Analysis Lab - MQTT` lab worksheet on Blackboard for detailed instructions on setting up and using the lab environment.
 
 ## Setup
 
